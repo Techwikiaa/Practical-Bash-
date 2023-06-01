@@ -1,0 +1,14 @@
+#1 Practical Bash
+Echo “hello world”
+Output:
+-hello world
+Echo “Foo” || echo “Bar”
+             || --- this is “OR-operator”
+Output:
+Foo
+Bar
+
+
+Cat 123_file_name.txt && echo “foo”
+Output:
+Cat: 123_file_name.txt: No Such file or directory

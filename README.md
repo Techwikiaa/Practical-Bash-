@@ -14,3 +14,7 @@ The improvements offered by Bash include:
     shell functions and aliases,
     indexed arrays of unlimited size,
     integer arithmetic in any base from two to sixty-four.
+    
+#    Documentation
+
+Documentation for Bash is available online, as is documentation for most GNU software. You may also find information about Bash by running info bash or man bash, or by looking at /usr/share/doc/bash/, /usr/local/share/doc/bash/, or similar directories on your system. A brief summary is available by running bash --help.

@@ -12,3 +12,6 @@ Bar
 Cat 123_file_name.txt && echo “foo”
 Output:
 Cat: 123_file_name.txt: No Such file or directory
+
+  " ; "  - AND
+  
